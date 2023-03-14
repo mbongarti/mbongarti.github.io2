@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Test Marcelo pages"
-    url: www.facebook.com
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home" 
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Activities"
+    url: /personal/
+  - title: "CV"
+    url: /CV/
