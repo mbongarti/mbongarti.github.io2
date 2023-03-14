@@ -13,9 +13,10 @@ I am a postdoctoral researcher at the Weierstrass Institute for Applied Analysis
 I work on the analysis of (mainly nonlinear hyperbolic) partial differential equations (PDEs) and associated control and optimization problems. 
 <p style="text-align: justify">
 Broadly speaking, my current research is focused in PDEs modeling 
+
 - gas dynamics (compressible Euler equations)
 - Nonlinear acoustics and ultrasound waves
-<p style="text-align: justify">
+</p>
 and specific related problems include 
 - Wellposedness and regularity theory for initial-boundary value problems
 - Boundary controllability and stabilization/stabilizability
