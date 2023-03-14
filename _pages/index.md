@@ -15,6 +15,7 @@ I work on the analysis of (mainly nonlinear hyperbolic) partial differential equ
 
 </p>
 Broadly speaking, my current research is focused in PDEs modeling 
+</p>
 - gas dynamics (compressible Euler equations)
 - Nonlinear acoustics and ultrasound waves
 
