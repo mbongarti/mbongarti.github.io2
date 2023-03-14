@@ -1,12 +1,10 @@
-# main links
+# main links links
 main:
   - title: "Home" 
     url: /
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Activities"
+  - title: "Besides Math"
     url: /personal/
   - title: "CV"
     url: /CV/
