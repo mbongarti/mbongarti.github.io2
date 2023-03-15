@@ -1,8 +1,8 @@
 ---
-title: "What even is there besides math?"
+title: "Academic and Research activities"
 layout: single
 sitemap: true
-permalink: /personal/
+permalink: /activities/
 author_profile: true
 ---
 

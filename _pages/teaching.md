@@ -1,8 +1,8 @@
 ---
-title: "What even is there besides math?"
+title: "Teaching?"
 layout: single
 sitemap: true
-permalink: /personal/
+permalink: /teaching/
 author_profile: true
 ---
 
