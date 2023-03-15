@@ -4,7 +4,9 @@ main:
     url: /
   - title: "Research"
     url: /publications/
-  - title: "Besides Math"
-    url: /personal/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Activities"
+    url: /activities/
   - title: "CV"
     url: /CV/
